@@ -1,5 +1,8 @@
 rgs = {
   projectrg = "west us"
+  tag = {
+    manage= "gyane"
+  }
 }
 Vnets = {
   vnet1 = {
