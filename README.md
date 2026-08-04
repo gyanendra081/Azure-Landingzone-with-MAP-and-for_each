@@ -1,0 +1,1 @@
+# Azure-Landingzone-with-MAP-and-for_each
